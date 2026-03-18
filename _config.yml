@@ -2,3 +2,15 @@ title: Rohit Daniel
 description: Personal website
 theme: minima
 url: "https://www.rohitdaniel.com"
+
+# Navigation menu
+collections:
+  posts:   # For blog
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
