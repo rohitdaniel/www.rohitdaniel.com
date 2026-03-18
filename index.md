@@ -5,24 +5,11 @@ title: Rohit Daniel
 
 # Welcome
 
-Hello! I’m Rohit. I work on educational research and technology projects. This site is my personal space to share my work, projects, and contact information.
+---
+layout: home
+title: Rohit Daniel
+---
 
-## About Me
+# Welcome
 
-I am passionate about [educational research](#) and developing tools to support learning.  
-
-## Projects
-
-### Project 1
-Brief description of Project 1. 
-
-### Project 2
-Brief description of Project 2.
-
-### Project 3
-Brief description of Project 3.
-
-## Contact
-
-Email: [your-email@example.com](mailto:your-email@example.com)  
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+Hello! I’m Rohit. This is my personal website. You can learn more [About me](about.md), see my [Portfolio](portfolio.md), or read my [Blog](/blog/).
